@@ -1,0 +1,1 @@
+# write notes an commands or creating virtual enviriment in  python adn what its imnpo and how its dose

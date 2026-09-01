@@ -17,7 +17,7 @@ Bonus:
 
 import json
 import os
-from cryptography.fernet import Fernet
+from cryptography.fernet import Fernet # pyright: ignore[reportMissingImports]
 from datetime import datetime
 
 VAULT_FILE = "notes_vault.json"
